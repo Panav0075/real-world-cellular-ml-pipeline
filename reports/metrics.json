@@ -1,0 +1,25 @@
+{
+  "best_model": "Linear Regression",
+  "models": {
+    "Mean Baseline": {
+      "MAE": 35.1568,
+      "RMSE": 42.2499,
+      "R2": -0.0031
+    },
+    "Linear Regression": {
+      "MAE": 11.1281,
+      "RMSE": 14.2646,
+      "R2": 0.8857
+    },
+    "Random Forest": {
+      "MAE": 12.4429,
+      "RMSE": 16.0834,
+      "R2": 0.8546
+    },
+    "Gradient Boosting": {
+      "MAE": 11.7938,
+      "RMSE": 15.1933,
+      "R2": 0.8703
+    }
+  }
+}

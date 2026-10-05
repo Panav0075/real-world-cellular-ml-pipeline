@@ -1,0 +1,13 @@
+data:
+  raw_path: data/raw/sample_cell_measurements.csv
+  processed_path: data/processed/clean_cell_measurements.csv
+
+model:
+  target: throughput_mbps
+  test_size: 0.20
+  random_state: 42
+
+output:
+  model_path: models/best_model.joblib
+  metrics_path: reports/metrics.json
+  report_path: reports/model_evaluation.md
