@@ -325,6 +325,3 @@ The included dataset is synthetic and does not represent the full complexity of 
 
 **Python · Pandas · NumPy · scikit-learn · Joblib · PyYAML · Pytest**
 
-## License
-
-MIT License
